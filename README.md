@@ -4,9 +4,10 @@ Legal considerations & attribution
 MIT license. See the LICENSE file. 
 
 All of the Pokemon data (minus the sprites) are from [veekun's pokedex
-repo](github.com/veekun/pokedex).
+repo](https://github.com/veekun/pokedex).
 
-The sprites were downloaded from [dragonflycave](www.dragonflycave.com). 
+The sprites were downloaded from [dragonflycave](
+http://www.dragonflycave.com/sprites.aspx). 
 
 The following statement was taken from veekun/pokedex's own README. It also
 applies here. 
