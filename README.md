@@ -26,4 +26,4 @@ Intro
 =====
 This repository contains some R/SQL code for analyzing Pokemon data! I'm
 currently sharing the results of this analysis over at [this Shiny-generated
-site](kimolas.shinyapps.io/LYADA). 
+site](https://kimolas.shinyapps.io/LYADA). 
